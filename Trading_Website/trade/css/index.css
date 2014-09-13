@@ -1,0 +1,114 @@
+@font-face {
+	font-family: 'fontawesome';
+	src:url('../fonts/fontawesome/fontawesome.eot');
+	src:url('../fonts/fontawesome/fontawesome.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/fontawesome/fontawesome.woff') format('woff'),
+		url('../fonts/fontawesome/fontawesome.ttf') format('truetype'),
+		url('../fonts/fontawesome/fontawesome.svg#fontawesome') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.trade .loggedin_menubar_container{min-height:200px; background:url('../logos/the-world.jpg') no-repeat; background-size:auto; background-position:50% 0;}
+.trade ._321{padding-right:70px}
+.trade #accmdBar{ top:-52px; margin-bottom:-32px; position:relative;}
+.trade ._waz{z-index:99; margin:0px}
+
+.trade ._15mae{padding:0px 20px; background:rgba(0,0,0,.4);}
+._15maf{width:1100px; margin:0px auto; padding:5px;}
+
+.trade ._hie-{width:700px;border: 1px solid #000; background:rgba(0,0,0,0.5)}
+.trade ._hie- ._hid-a-0a{color:#777}
+._tid{background:#f9fafb;-webkit-box-shadow: inset 0 -30px 50px #fff; -webkit-transition:all 600ms ease-out;transition:all 600ms ease-out; overflow:hidden;height:0; border-bottom-color:transparent; }
+.openToggler ._tid{height:293px; border-bottom:1px solid #fafafa}
+._xid ._xid-,._tid ._tid-{width:980px; margin:0px auto; padding:10px 0px 20px}
+._tid ._tid- h1{padding-left:8px; font-size:16px; line-height:128%; font-weight:800; color:#777; border-bottom:1px solid #ddd; padding-bottom:10px}
+._tid ._tid- .unorderedItem{width:150px; display:inline-block; font-size:13px; padding-right:10px; vertical-align:top;padding-top:10px;border-top:1px solid #fff}
+._tid ._tid-  .listItem{line-height:156%; padding-left:8px}
+._tid ._tid-  .listItem:hover{background:#f0f0f0}
+.trade ._hie- .DOMControl_placeholder{padding:8px 0px; height:14px}
+._15map { display:block; color:#fff; background:#df493e; line-height:40px; width:200px; font-size:16px; text-align:center; border-radius:0px; -webkit-border-radius:0px}
+
+._15map .select{width:200px; height:30px; margin:5px; margin-left:20px; letter-spacing:1px}
+.trade .global_container{margin:0px auto; width:95%; min-height:560px}
+._871p{width:15%; font-size:14px}
+._fe-42_a{width:100%;}
+._fz-42_a{border-radius:4px; margin-bottom:20px; background:#777; padding:8px;}
+.tradeItems{}
+.tradeItems .tradeItem{line-height:1.28; height:29px; border-bottom:1px solid #eee; border-top:1px solid #fff}
+.tradeLink{text-align:center; display:block; height:19px; padding:5px; background:#f9f9f9; }
+.tradeLink.selectedLink,.tradeLink:hover{background:#444; color:#fff; text-decoration:none}
+
+.category_name{text-align:center; padding:8px 0px}
+._872p{width:84%; min-height:510px; background:#f5f6f7}
+#add_item_form,#message_form{width:100%;}
+#modify_item_container,#add_item_container,#message_container,#trade_profile{width:100%; margin:0px; border:none; background:#fff;  border-radius:4px; font-size:14px} 
+._872q #add_item_container,
+._872q #message_container,
+._872q #trade_profile,
+._872q #modify_item_container{width:70%; margin:20px auto; border:1px solid #ddd;}
+#add_item_container .label,#message_container .label,#modify_item_container .label{width:100%; display:block;color:#666; font-weight:bold; vertical-align:middle; font-size:12px;margin-bottom:5px}
+#add_item_container .inputtext,#message_container .inputtext,#modify_item_container .inputtext{width:250px; height:20px; padding:5px;outline:none}
+#add_item_container .select,#modify_item_container .select{width:262px;height:30px;padding:5px}
+#add_item_container .uiTypeahead .wrap,#message_container .uiTypeahead .wrap,#modify_item_container .uiTypeahead .wrap{border:none}
+._pht_cn{width:678px;}
+#add_item_container textarea,#message_container textarea,#modify_item_container textarea{background:#fff; min-height:140px; border:1px solid #ddd; resize:none}
+#add_item_container .button,#message_container .button,#modify_item_container .button{width:100px; height:30px}
+#item_container ._it_1h3,._item_s-{padding:20px; width:96%}
+#item_container ._it_i-{width:15%; cursor:pointer;float:left;height:180px;border:1px solid #ddd; background:#fff; border-radius:2px; box-shadow:0px 1px 1px rgba(0,0,0,0.6)}
+#item_container ._it_i-:hover{opacity:1}
+._it_j-{padding:2px; position:relative;}
+._it_i- img,._item_s- img{position:absolute}
+._item_s- img{position:absolute;}
+
+._237_{width:35%; background:#fff; border:1px solid #ddd;}
+
+._p92-{height:376px;overflow:hidden}
+._p31-{height:176px}
+._it_1f3{width:100%;}
+._239_{width:75px;background-color:#fff; border:1px solid #eee}
+._p10-{ height:80px; }
+.cbp-vm-options{height:19px}
+.cbp-vm-options a {display: inline-block;width: 19px;height: 19px;overflow: hidden;white-space: nowrap;color: #000;margin-right: 10px;}
+.cbp-vm-options a:before {width: 19px;height: 19px;line-height: 19px;font-size: 19px;text-align: center;display: inline-block;}
+.cbp-vm-grid:before {content: "\f00a";}
+.cbp-vm-list:before {content: "\f00b";}
+.cbp-vm-icon:before {font-family: 'fontawesome';speak: none;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;}
+.cbp-vm-options a:hover, .cbp-vm-options a.cbp-vm-selected {color: #47a3da;}
+#trade_profile{width:90%;}
+._trl_23{border-top:1px solid #fff; border-bottom:1px solid #eee; padding:10px 0px}
+._trl_23:hover,.auction_user:hover{background-color:#f1f1f1;}
+#tr_el_2{border-left:1px solid #eee; min-height:230px}
+#tr_el_1{border-right:1px solid #fff;}
+
+#searchBar.fixed{position:fixed; width:1349px; top:-20px; z-index:1}
+._871p.fixed{position:fixed; widows:192px; z-index:1}
+#bidForm ._592{ min-width:180px;}
+
+.trade .dtupc158{width:auto; height:73px;padding:0px; border:none;}
+.trade .dtupc158 .dtupw159 {height:73px; padding:0px; width:auto}
+.trade .dtupc158 ._dupwrapper span.wrapper{height:73px; width:73px; border:none;}
+.trade .dtupc158 span span.inner1 {top: 20px;width: 73px;font-size: 9px;color:#fff;}
+.trade .dtupc158 span span.inner2 {top: 30px;width: 73px;font-size: 9px;}
+.dtupc158 span div.progressbar {width: 73px;height: 4px;bottom: 20px;}
+.trade .dtupc158 span  .progress_info{ width:73px;height:20px; display:none}
+
+//.trade ._56q ._76in-{width:304px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

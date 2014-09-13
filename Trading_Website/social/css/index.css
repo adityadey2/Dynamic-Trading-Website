@@ -1,0 +1,85 @@
+._nfa12{width:700px; min-height:680px}
+.loggedin_menubar_container{border-bottom:1px solid #ccc; background:url(../../image/bg.jpg) repeat;
+text-indent: 0;
+background:#333;
+overflow:hidden; }
+.social .loggedin_menubar{width:680px; margin:0px auto; min-height:80px;}
+
+._34cdr{width:140px; overflow:hidden;position:relative}
+#logobar{ width: 100px; height:100px; padding:5px; text-align:center;line-height:100px; }
+.toggleMenu{margin:20px; position:relative; display:inline-block}
+._34cdr ._34cdr7{postion:relative; padding:25px; display:block; border:1px solid rgba(0,0,0,0);}
+._34cdr ._34cdr7:hover{border-color:#000; border-radius:3px}
+.menu-trigger:before{position: absolute;top: 11px;left: 6px;width: 40px;height: 6px;background: #111;box-shadow: 0 6px #333, 0 12px #111, 0 18px #333, 0 24px #111;content: '';}
+#logo{border-radius:15px; vertical-align:middle}
+._67hic{ overflow:hidden; margin:10px 0px 10px 10px}
+._12mal #headItemBar .headItems{ display:block}
+#navItem_container{padding:0px 5px; height:40px;}
+#navItem_container .navItems{float:left; position:relative; min-width:100px; }
+._12mal #headItemBar  .navLink{padding:2px; color:#111; width:96px; display:inline-block; line-height:26px; margin:0px;text-align:center;background:transparent}
+._12mal #headItemBar  .navLink:hover{background:#222; color:#000}
+._12mal #headItemBar  .navLink ._69hj{font-size:14px; font-weight:bold; text-shadow:0 1px 0px #000 ;}
+._hie-{margin:5px; padding-left:5px; padding-right:25px; border-radius:5px; height:30px; position:relative; background:#fefefe; border:none; width:474px;} 
+.uiTypeahead{position:relative; border-width:1px 0; background:#f5f6f7; cursor:default}
+.uiTypeahead .wrap {border: solid #bdc7d8;border-width: 0 1px;}
+
+
+._fm27 .uiTypeahead .wrap{padding:5px;}
+._fm27 .uiTypeahead,._fm27 .wrap{background:#fff; border-width:0px}
+._45m{border:1px solid #bdc7d8}
+._45m ._fm27{border:none;}
+._45m .margin{height: 2px;border-width: 1px 0px 1px 0px;border-color: #eee;border-style: solid;background: #f6f7f8;display: block;box-shadow: inset 0 1px 0px #fff;}
+._45m .fade{background:#fcfdfe; text-shadow:0 1px 0px #fff}
+
+
+.uiTypeahead .innerWrap{overflow:hidden; zoom:1}
+.uiTypeahead .textInput {background-color: transparent;border: 0;-webkit-box-sizing: border-box;outline: 0;width: 100%;}
+._hie-  ._ty142,._hie-  ._ty142 .wrap{ border:none; height:30px; background:transparent;}
+._hid ._hid-b{overflow:hidden; position:relative}
+._hid ._hid-a{border: none;font-family: 'Helvetica Neue', Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;font-size: 14px;}
+
+._45gbx ._hid-a-1{font-family: 'Helvetica Neue', Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;-webkit-font-smoothing: antialiased;height: 25px;line-height: 26px;padding: 3px 0 0;text-shadow: none;}
+._hid ._hid-a{background: none;color: #333;cursor: text;height: 30px;overflow: hidden;padding: 0;text-indent: 2px;width: inherit;}
+._45gbx ._hid-a-1{color:#898f9c;}
+._hid-a ._hid-a-1{overflow:hidden; white-space:pre; margin-top:-1px}
+._hid-a ._hid-a-1{white-space:nowrap}
+._hid-a-0a{border:none; width:100%; height:28px; background:transparent; z-index:300; position:relative; outline:none; font-size:inherit}
+._56tyu{margin:5px; background:#fff;border-radius:2px;}
+#postText form{  border:1px solid rgba(0,0,0,0.4);}
+._hm43 .postheader{padding:10px; width:492px; border-bottom:1px solid rgba(0,0,0,0.4); font-size:14px; padding-right:0px}
+.postplace{width:365px; height:26px; margin-left:10px;}
+
+._hm43 ._qdp{ font-size:12px; width:54px; margin-right:6px; height:26px; line-height:1.28; border-left:1px solid #f1f1f1}
+.privacyLink{text-align:center; margin-left:7px; line-height:14px; height:14px; display:block;position:relative; width:44px; border:1px solid rgba(0,0,0,0);padding:5px 0px;color:#333}
+.privacyLink:hover{background:#a1a0a0; color:#222; border-color:#777}
+
+._23cd{position:relative; margin-top:50px}
+._23cd .uiMentionInput .highlighter{font-size:14px;}
+._23cd .composerTypeahead,._23cd .composerTypeahead .wrap{border:0}
+._23cd .composerTypeahead .wrap{padding:5px;}
+.uiMentionInput .mentionTypeahead,.uiMentionInput .mentionTextarea{background:transparent; zoom:1;}
+.inputTextarea{font-size:13px; height:16px; padding:0; resize:none;}
+._23cd .inputTextarea {vertical-align: bottom;}
+.uiMentionInput .mentionTextarea {line-height: 1.28;}
+.uiTypeahead .textInput {background-color: transparent;border: 0;-webkit-box-sizing: border-box;outline: 0;width: 100%;}
+.inputTextarea{min-height:50px}
+
+
+._24cd{padding:3px;min-height:22px;border-top:1px solid #eee;}
+._24cd ._34toy,._24cd ._34toz{min-height:26px;}
+._24cd ._34toy{margin-right:10px}
+._24cd .navItem{display:inline-block;position:relative}
+._24cd .navLink{width:24px !important; height:24px !important; padding:1px !important;}
+._hm43 ._hm55{width:80px; height:26px; line-height:126%; font-size:14px}
+._hm55.nbtn{border-radius:2px}
+
+
+
+
+
+
+
+
+.trade .loggedin_menubar{width:1360px; margin:0px auto; min-height:70px}
+
+.trade ._hie-{width:532px;}

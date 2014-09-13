@@ -1,0 +1,75 @@
+.hexaflip-cube {
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  cursor: move;
+  cursor: -webkit-grab;
+  cursor: -moz-grab;
+  display: inline-block;
+  position: relative;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-transition: -webkit-transform 0.4s;
+  -moz-transition: -moz-transform 0.4s;
+  -o-transition: -o-transform 0.4s;
+  -ms-transition: -ms-transform 0.4s;
+  transition: transform 0.4s;
+}
+.hexaflip-cube.no-tween {
+  -webkit-transition-duration: 0;
+  -moz-transition-duration: 0;
+  -o-transition-duration: 0;
+  -ms-transition-duration: 0;
+  transition-duration: 0;
+}
+.hexaflip-cube > div {
+  width: 100%;
+  overflow: hidden;
+  height: 100.5%;
+  position: absolute;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  background-color: #111;
+  color: #fff;
+  font-weight: 100;
+  text-shadow: 0 1px 1px #000,0 -1px 1px #fff;
+  line-height: 1.5;
+}
+.logo:last-child .hexaflip-cube > div {
+	background-color: #fefefe;
+	color:#000;
+	text-shadow: 0 1px 1px #fff,0 -1px 1px #000;
+}
+.loggedin_menubar .logo .hexaflip-cube > div {background-color: #1a1a1a;
+  color: #fff;text-shadow: 0 1px 1px #000,0 -1px 1px #fff; background-size:100px auto; background-repeat:no-repeat; background-position:3px 25px; overflow:hidden;}
+/*
+.hexaflip-cube > div:nth-child(odd) {
+	background:#fff;
+	color:#000;
+	text-shadow: 0 1px 1px #fff,0 -1px 1px #000;
+}
+*/
+.hexaflip-left,
+.hexaflip-right {
+  background-color: #000 !important;
+}
+.logo:last-child .hexaflip-left,
+.logo:last-child .hexaflip-right {
+  background-color: #f1f1f1 !important;
+}
+.loggedin_menubar .logo .hexaflip-left,
+.loggedin_menubar .logo .hexaflip-right {
+  background-color: #111 !important;
+}
+.hexaflip-timepicker .hexaflip-cube:last-child > div:nth-child(odd) {
+  background-color: #ff575b;
+}
